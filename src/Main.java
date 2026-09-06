@@ -3,7 +3,7 @@ public class Main {
         NIETBankGUI gui = new NIETBankGUI();
         gui.showMainMenu();
     }
-    enrgbrgn
+    
 }
 
 
